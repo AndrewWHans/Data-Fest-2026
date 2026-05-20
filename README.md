@@ -1,4 +1,4 @@
-# ASA DataFest 2026 — Best Insight Winner
+# ASA DataFest 2026: Best Insight Winner
 
 🏆 Awarded “Best Insight” at ASA DataFest 2026 hosted at the University of Notre Dame.
 
