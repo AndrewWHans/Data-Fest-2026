@@ -40,6 +40,8 @@ Across the team project and my individual exploratory work, we used:
 - **Final presentation:** Our team’s Best Insight-winning submission.
 - **Individual exploratory notebook:** My working analysis, preserved separately from the analysis used in the final submission.
 
+The exploratory notebook requires a shared Parquet file that is not included in this repository and that I no longer have access to.
+
 ## About the Competition
 
 ASA DataFest is a data analysis competition sponsored by the American Statistical Association. Student teams explore real-world datasets and communicate their findings to judges within a limited timeframe.
